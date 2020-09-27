@@ -8,7 +8,7 @@ command -v unzip > /dev/null 2>&1 || { echo >&2 "Unzip is not installed ! Instal
 banner() {
 clear
 printf " \e[33;1m ______      _     _     _               \e[0m\n"
-printf " \e[33;1m|___  /     | |   (_)   | |              \e[0m\n"
+printf " \e[33;1m|___  /     | |   (.)   | |              \e[0m\n"
 printf " \e[33;1m   / / _ __ | |__  _ ___| |__   ___ _ __ \e[0m\n"
 printf " \e[32;1m  / /\e[33;1m | '_ \| '_ \| / __| '_ \ / _ \ '__|\e[0m\n"
 printf " \e[32;1m / /__| |_) | | | | \__ \ | | |  __/ |   \e[0m\n"
